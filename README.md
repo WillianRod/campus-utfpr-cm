@@ -14,3 +14,6 @@ Para fazer download do mapa [CLIQUE AQUI](https://github.com/WillianRod/campus-u
 
 ### Contribuir
 Fez alguma alteração no mapa e gostaria que estivesse aqui no repositório original? Faça um pull request com as suas alterações
+
+## É de outro campus?
+Se você é de outro campus e também fez o campus no Minecraft, entre em contato no email willianbarbosa@alunos.utfpr.edu.br e vamos juntar todos os mapas em um só.
